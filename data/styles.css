@@ -1,6 +1,6 @@
 body {
     background-color: #008080;
-    background-image: url('../img/bg.bmp'); /* Your local image */
+    background-image: url('../img/bg.jpeg'); /* Your local image */
     background-repeat: repeat; /* This makes it tile */
     margin: 20px;
     font-family: "MS Sans Serif", Tahoma, sans-serif;
